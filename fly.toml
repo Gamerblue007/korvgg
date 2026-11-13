@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for korvgg on 2026-11-13T18:16:18Z
+# fly.toml app configuration file generated for korvgg on 2026-11-13T18:27:59Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
 app = 'korvgg'
-primary_region = 'ams'
+primary_region = 'arn'
 
 [build]
 [http_service]
